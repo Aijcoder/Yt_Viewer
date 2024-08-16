@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.db
+*.sqlite3
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+*.manifest
+*.spec
+
+# Virtual environment
+venv/
+.env/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Python environment files
+*.env
+*.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pylint
+pylint-report.txt
+pylint-global.rc
+
+# Type checking
+*.mypy_cache/
+
+# flake8
+.flake8
+
+# tox
+.tox/
+
+# Sphinx documentation
+docs/_build/
+
+# Build directories
+build/
+tmp/
+temp/
